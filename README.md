@@ -1,4 +1,3 @@
-```
 # PokeCollection App
 
 PokeCollection es una aplicación móvil desarrollada en React Native que te permite explorar y coleccionar Pokémon de la famosa serie de videojuegos y anime.
