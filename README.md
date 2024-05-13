@@ -40,5 +40,5 @@ npm install
 4. Ejecuta la aplicación en un emulador o en tu dispositivo móvil:
 
 ```bash
-npx react-native run-android
+npx expo start --tunnel
 ```
