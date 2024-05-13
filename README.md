@@ -28,7 +28,7 @@ git clone https://github.com/F4ust01/react-navigation.git
 2. Entra en el directorio del proyecto:
 
 ```bash
-cd PokeCollection
+cd .\react-navigation\
 ```
 
 3. Instala las dependencias necesarias:
@@ -40,5 +40,5 @@ npm install
 4. Ejecuta la aplicación en un emulador o en tu dispositivo móvil:
 
 ```bash
-npx react-native run-android
+npx expo start --tunnel
 ```
