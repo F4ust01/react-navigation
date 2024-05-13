@@ -22,7 +22,7 @@ Sigue estos pasos para instalar la aplicación:
 1. Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tu-usuario/PokeCollection.git
+git clone https://github.com/F4ust01/react-navigation.git
 ```
 
 2. Entra en el directorio del proyecto:
